@@ -1,2 +1,19 @@
-# InventoryManagementSystem
-A Python-based desktop application for efficient inventory tracking. Features include product management, stock updates, and search functionality. Built with Tkinter GUI and Excel-based data storage. Ideal for small to medium businesses looking to streamline their inventory processes.
+# Inventory Management System
+
+This is a simple inventory management system built with Python and Tkinter.
+
+## Features
+- Add new products
+- Update stock levels
+- Search for products
+- View all products in inventory
+
+## How to Run
+1. Ensure you have Python installed
+2. Install required packages: `pip install openpyxl`
+3. Run `python inventory_management_system.py`
+
+## Future Improvements
+- Add data visualization
+- Implement user authentication
+- Create reports feature
